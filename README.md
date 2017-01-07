@@ -11,9 +11,10 @@ My name is Erick Jean Reyes. I am a 18 years old Dominican Teenager aspiring to 
 
 # Work/Projects
 
-* [Truth Table statement calculator. Written in C++.](https://erickjr13.github.io/TruthTable/)
-* [Pig Latin Translator. Written in Python.](https://erickjr13.github.io/PygTranslator)
-* [Geometric shapes calculator. Written in Python.](https://erickjr13.github.io/Shapeator)
+* [Is it True? - Truth Table statement calculator. Written in C++.](https://erickjr13.github.io/IsItTrue-/)
+* [PygTranslator - Pig Latin Translator. Written in Python.](https://erickjr13.github.io/PygTranslator)
+* [Shapeator - Geometric shapes calculator. Written in Python.](https://erickjr13.github.io/Shapeator) In collaboration with [Addiel Almonte](https://github.com/Speedmirage)
+
 
 
 
