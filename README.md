@@ -4,10 +4,10 @@
 # Work/Projects
 
 * [Virtual Address Calculator](http://erickjr.me/Virtual-Address-Calculator/)- Page Number and Offset calculator. Written in C++
-* [ExtendedGCD](erickjr.me/Extended-GCD/)- Extended Euclidean algorithm calculator. Written in Python
-* [Is it True?](https://erickjr.me/IsItTrue-/)- Truth Table statement calculator. Written in C++.
-* [Shapeator](https://erickjr.me/Shapeator)- Geometric shapes calculator. Written in Python.
-* [PygTranslator](https://erickjr.me/PygTranslator)- Pig Latin Translator. Written in Python.
+* [ExtendedGCD](http://erickjr.me/Extended-GCD/)- Extended Euclidean algorithm calculator. Written in Python
+* [Is it True?](http://erickjr.me/IsItTrue-/)- Truth Table statement calculator. Written in C++.
+* [Shapeator](http://erickjr.me/Shapeator)- Geometric shapes calculator. Written in Python.
+* [PygTranslator](http://erickjr.me/PygTranslator)- Pig Latin Translator. Written in Python.
 
 
 
