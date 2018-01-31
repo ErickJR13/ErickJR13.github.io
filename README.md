@@ -6,7 +6,7 @@
 * [Is it True? - Truth Table statement calculator. Written in C++.](https://erickjr13.github.io/IsItTrue-/)
 * [PygTranslator - Pig Latin Translator. Written in Python.](https://erickjr13.github.io/PygTranslator)
 * [Shapeator - Geometric shapes calculator. Written in Python.](https://erickjr13.github.io/Shapeator)
-* [Virtual Address Calculator -](# [Go back to Main Page](https://erickjreyes.me)
+* [Virtual Address Calculator -]()
 
 
 
