@@ -1,11 +1,5 @@
 
 
-# Skills
-
-* HTML 
-* CSS
-* C++
-* Python
 
 # Work/Projects
 
@@ -16,10 +10,11 @@
 
 
 
-# Contact
+# About me
 
 * [LinkedIn](https://www.linkedin.com/in/erickjreyes)
 * [Github](https://Github.com/ErickJR13)
-
+* [Resume](https://app.box.com/s/u44zbi28mq39xh1hfjed42xrx0vud2jj)
+* [Twitter](https://twitter.com/exjr_13)
 
 
