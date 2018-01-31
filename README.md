@@ -3,10 +3,12 @@
 
 # Work/Projects
 
-* [Is it True? - Truth Table statement calculator. Written in C++.](https://erickjr13.github.io/IsItTrue-/)
-* [PygTranslator - Pig Latin Translator. Written in Python.](https://erickjr13.github.io/PygTranslator)
-* [Shapeator - Geometric shapes calculator. Written in Python.](https://erickjr13.github.io/Shapeator)
-* [Virtual Address Calculator -]()
+* [Virtual Address Calculator - Page Number and Offset calculator. Written in C++](http://erickjr.me/Virtual-Address-Calculator/)
+* [Is it True? - Truth Table statement calculator. Written in C++.](https://erickjr.me/IsItTrue-/)
+* [Shapeator - Geometric shapes calculator. Written in Python.](https://erickjr.me/Shapeator)
+* [PygTranslator - Pig Latin Translator. Written in Python.](https://erickjr.me/PygTranslator)
+
+
 
 
 
